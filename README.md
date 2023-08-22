@@ -1,4 +1,4 @@
-# lytro_dataset_enhanced
+# Lytro Dataset Enhanced
 
 This dataset is an enhanced version of the lytro-dataset form  M. Nejati, S. Samavi, S. Shirani, 
 "Multi-focus Image Fusion Using Dictionary-Based Sparse Representation", Information Fusion, 
