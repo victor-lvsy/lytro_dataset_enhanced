@@ -13,3 +13,5 @@ lense.
 This dataset have been enhanced by V. Levesy, August 2023.
 
 ![image from the dataset](https://github.com/victor-lvsy/lytro_dataset_enhanced/blob/master/lytro-img/A/lytro-01-A.jpg?raw=true)
+![image from the dataset](https://github.com/victor-lvsy/lytro_dataset_enhanced/blob/master/lytro-img/B/lytro-01-B.jpg?raw=true)
+![image from the dataset](https://github.com/victor-lvsy/lytro_dataset_enhanced/blob/master/lytro-trimap/lytro-01-trimap.jpg?raw=true)
